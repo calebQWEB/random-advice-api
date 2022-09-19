@@ -1,0 +1,12 @@
+#root {
+  /* Primary */
+  --ligthcyan: hsl(193, 38%, 86%);
+  --neongreen: hsl(150, 100%, 66%);
+
+  /* Neutral */
+  --mainBackgroun: hsl(217, 19%, 38%);
+  --darkBlue: hsl(217, 19%, 24%);
+  --darkerblue: hsl(218, 23%, 16%);
+
+}
+
